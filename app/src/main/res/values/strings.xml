@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tên ứng dụng của bạn</string>
+    <string name="error_empty_input">Vui lòng nhập số nguyên dương</string>
+    <string name="error_positive_input">Vui lòng nhập số nguyên dương</string>
+    <string name="error_invalid_data">Dữ liệu không hợp lệ</string>
+    <string name="error_select_type">Vui lòng chọn loại số</string>
+</resources>
